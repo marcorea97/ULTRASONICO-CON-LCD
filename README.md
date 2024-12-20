@@ -102,7 +102,9 @@ ______________________________
 
 ![](https://github.com/marcorea97/ULTRASONICO-CON-LCD/blob/main/LCD%20DIP.png)
 
-![](https://github.com/marcorea97/ULTRASONICO-CON-LCD/blob/main/LCD%20MARCO%20REA.png)
+![](
+https://github.com/marcorea97/ULTRASONICO-CON-LCD/blob/main/1.png
+)
 
 ![](https://github.com/marcorea97/ULTRASONICO-CON-LCD/blob/main/LCD%20DISTANCIA.png)
 
